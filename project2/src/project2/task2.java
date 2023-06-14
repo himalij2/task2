@@ -7,5 +7,4 @@ public class task2 {
 System.out.println("update 1.0");
 System.out.println("update 2.0");
 	}
-
 }
